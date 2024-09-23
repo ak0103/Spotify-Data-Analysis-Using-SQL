@@ -5,7 +5,7 @@ Project Category: Medium
 ## Objectives
 Set up a spotify_db database: Create and populate a spotify database with the provided  data.
 Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to understand the dataset.
-Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
+Business Analysis: Use SQL to answer specific business questions and derive insights from the  data.
 
 
 ## Overview
